@@ -1,4 +1,4 @@
-# MamuelSillerWebSiteOrSomethingIDK
+# WebsiteAboutMyself
 
-# Link - https://nimay72.github.io/MamuelSillerWebSiteOrSomethingIDK/
+# Link - https://nimay72.github.io/WebsieAboutMyself/
 This is a boring website
